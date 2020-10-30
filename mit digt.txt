@@ -2,7 +2,6 @@ int x = 15
 for x = 0 til 19
 int x = 14
 
-
 Yo! we have to learn
 github should been called gitpub
 Joine us for great times
@@ -15,11 +14,9 @@ GitHub er super
 Ifølge folk og lærer
 Jeg er forvirret
 
-
 create pull request
 hvorfor virker det ikke
 sut min integer
-
 
 this is very dumb
 how do I do this thingy 
@@ -37,4 +34,6 @@ det virker ikke
 hvorfor virker det ikke 
 prøv at debugge  
 
-
+i like your interger
+jeg forstår ikke 
+575 ?????????????????????????????
