@@ -20,3 +20,6 @@ this is very dumb
 how do I do this thingy 
 my done goofed up now
 
+det virker ikke 
+hvorfor virker det ikke 
+prøv at debugge  
