@@ -2,6 +2,11 @@ int x = 15
 for x = 0 til 19
 int x = 14
 
+
+Yo! we have to learn
+github should been called gitpub
+Joine us for great times
+
 Float værdi er stor
 Int i = 0 > 2
 charAt(3) = e
@@ -20,11 +25,16 @@ this is very dumb
 how do I do this thingy 
 my done goofed up now
 
-
-
-
-
-
 Mad er meget godt
 Jeg er en meget sulten
 Sult er ikke godt
+
+Hvad skal jeg skrive
+Skrive ord jeg må gøre
+Forkert 
+
+det virker ikke 
+hvorfor virker det ikke 
+prøv at debugge  
+
+
