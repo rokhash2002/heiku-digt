@@ -2,10 +2,21 @@ int x = 15
 for x = 0 til 19
 int x = 14
 
+Float værdi er stor
+Int i = 0 > 2
+chatAt(3) = e
+
 GitHub er super
 Ifølge folk og lærer
 Jeg er forvirret
 
+
 create pull request
 hvorfor virker det ikke
 sut min integer
+
+
+this is very dumb
+how do I do this thingy 
+my done goofed up now
+
