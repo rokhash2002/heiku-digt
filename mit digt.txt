@@ -4,7 +4,7 @@ int x = 14
 
 Float værdi er stor
 Int i = 0 > 2
-chatAt(3) = e
+charAt(3) = e
 
 GitHub er super
 Ifølge folk og lærer
