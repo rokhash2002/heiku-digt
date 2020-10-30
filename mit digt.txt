@@ -2,6 +2,10 @@ int x = 15
 for x = 0 til 19
 int x = 14
 
+Float værdi er stor
+Int i = 0 > 2
+chatAt(3) = e
+
 GitHub er super
 Ifølge folk og lærer
 Jeg er forvirret
