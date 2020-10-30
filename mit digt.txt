@@ -1,3 +1,7 @@
 int x = 15
 for x = 0 til 19
 int x = 14
+
+Yo! we have to learn
+github should been called gitpub
+Joine us for great times
