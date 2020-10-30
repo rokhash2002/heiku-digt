@@ -2,6 +2,11 @@ int x = 15
 for x = 0 til 19
 int x = 14
 
+
+Yo! we have to learn
+github should been called gitpub
+Joine us for great times
+
 Float værdi er stor
 Int i = 0 > 2
 charAt(3) = e
@@ -23,3 +28,4 @@ my done goofed up now
 det virker ikke 
 hvorfor virker det ikke 
 prøv at debugge  
+
